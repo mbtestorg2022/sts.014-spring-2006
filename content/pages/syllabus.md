@@ -49,9 +49,54 @@ Grading
 
 All students taking this course will be asked to develop a significant practical project of their own in science communication; individual guidance will be provided. The final project counts for 40% of the final grade. The remaining 60% will be assessed on the basis of class participation, a take-home midterm exam, and mini-research projects and presentations. See course [calendar]({{< baseurl >}}/pages/calendar) for details.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 20% |
-| Take-home Midterm Exam | 25% |
-| Mini-research Projects and Presentations | 15% |
-| Final Project | 40%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mini-research Projects and Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
